@@ -14,6 +14,8 @@ U \__\_\u<<\___/  U/| |\u   /____|      u |_|U    U/| |\u    |_|  |_|  |_____|  
 correctCount = 0
 #User guess
 userGuess = ""
+#User instructions
+print("Welcome to Quiz Time! You will answer a few True or False questions. Please only enter T or F exactly as seen when it is your turn to answer a few questions. Have fun!")
 # Setup Questions and Answers
 questions = ('Q1. Are light rays part of the electromagnetic spectrum',
              'Q2. Are boolean variables consider predicate variables',
