@@ -26,7 +26,7 @@ numberOfQuestions = len(questions)
 # Loop once for each question
 for index in range(numberOfQuestions):
   print(f"Question {index+1}")
-  print(f"index: {index}")
+  #print(f"index: {index}")
   print(f"Prompt: {questions[index]}")
   #user attempts ?
   print()
